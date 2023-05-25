@@ -1,0 +1,3 @@
+[submodule "deps/External"]
+	path = deps/External
+	url = https://github.com/shiversoftdev/External.git
