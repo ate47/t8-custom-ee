@@ -1,5 +1,5 @@
 # t8-custom-ee
-A tool to allow EEs in local or custom mutation in Black Ops 4
+A tool to allow EEs in local or custom mutation in Black Ops 4 ([Demo video](https://www.youtube.com/watch?v=zGUf-qEcHMU))
 
 Load the zombies mode and press "Inject mod", you can remove the mod using "Reverse mod".
 
